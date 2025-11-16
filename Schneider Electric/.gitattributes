@@ -1,0 +1,6 @@
+core filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+extras filter=lfs diff=lfs merge=lfs -text
+model filter=lfs diff=lfs merge=lfs -text
+statament.pdf filter=lfs diff=lfs merge=lfs -text
+streamlit.py filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+streamlit
+shap
+matplotlib
+google-generativeai
+ipykernel
+jupyter
+tensorflow
